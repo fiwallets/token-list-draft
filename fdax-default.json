@@ -25,7 +25,7 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "address": "0x88435653AFEBE9806cfF334f2F04A1fdD5D4eb63",
-      "chainId": 1,
+      "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
     },
@@ -33,7 +33,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x3f851192D8b2D8DADc7c2B49F7a9FA27CdCEA680",
-      "chainId": 1,
+      "chainId": 2006,
       "decimals": 6,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
     },
@@ -41,23 +41,15 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "address": "0x51db507c3aFAD70b944Bd9d3b11822a515bbAD82",
-      "chainId": 1,
+      "chainId": 2006,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
-    },
-    {
-      "name": "Binance USD",
-      "symbol": "BUSD",
-      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x4Fabb145d64652a948d72533023f6E7A623C7C53.png"
     },
     {
       "name": "FiwalletSwap Token",
       "symbol": "CAKE",
       "address": "0x03011a0F40d32fd5770271Ce585ba4E6eF02db45",
-      "chainId": 1,
+      "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.png"
     },
