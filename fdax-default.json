@@ -52,6 +52,14 @@
       "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.png"
-    },
+    },    
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe5e8ca35b7bf7045288bf6731f071f9f98c5ce47",
+      "chainId": 2006,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/busd.png"
+    }
   ]
 }
