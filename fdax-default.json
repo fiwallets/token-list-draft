@@ -14,25 +14,25 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped FDAX",
-      "symbol": "WFDAX",
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped FDX",
+      "symbol": "WFDX",
+      "address": "0xa27a128dD70479FD2B37662223C6523F10eBc21A",
       "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
     },
     {
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "address": "0x88435653AFEBE9806cfF334f2F04A1fdD5D4eb63",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x88435653afebe9806cff334f2f04a1fdd5d4eb63",
       "chainId": 2006,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png"
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x3f851192D8b2D8DADc7c2B49F7a9FA27CdCEA680",
+      "address": "0x3f851192d8b2d8dadc7c2b49f7a9fa27cdcea680",
       "chainId": 2006,
       "decimals": 6,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
@@ -46,9 +46,9 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
     },
     {
-      "name": "FiwalletSwap Token",
-      "symbol": "CAKE",
-      "address": "0x03011a0F40d32fd5770271Ce585ba4E6eF02db45",
+      "name": "MiexxSwap Token",
+      "symbol": "MIEXX",
+      "address": "0x4B96c9c245E3b852Bc071f53C81f0412eCdD26ac",
       "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.png"
