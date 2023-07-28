@@ -46,9 +46,9 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
     },
     {
-      "name": "MiexxSwap Token",
-      "symbol": "MIEXX",
-      "address": "0x4B96c9c245E3b852Bc071f53C81f0412eCdD26ac",
+      "name": "MiexSwap Token",
+      "symbol": "Miexs",
+      "address": "0xb58a20d1ECE83AA428a125503A15c4F4099C83FE",
       "chainId": 2006,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.png"
