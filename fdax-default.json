@@ -47,7 +47,7 @@
     },
     {
       "name": "MiexsSwap Token",
-      "symbol": "Miexs",
+      "symbol": "MIEXS",
       "address": "0xC4610d97c89E9d8326fb6A536f41A12580C12204",
       "chainId": 2006,
       "decimals": 18,
